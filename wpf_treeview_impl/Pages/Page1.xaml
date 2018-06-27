@@ -24,9 +24,9 @@
                     <MenuItem Header="1"/>
                 </ContextMenu>
                 <ContextMenu x:Key="cont_3">
-                    <MenuItem Header="1"/>
+                    <MenuItem Header="context menu A"/>
                     <Separator/>
-                    <MenuItem Header="1"/>
+                    <MenuItem Header="context menu B"/>
                 </ContextMenu>
             </TreeView.Resources>
             <!--Tree parent (without bindings) -->
